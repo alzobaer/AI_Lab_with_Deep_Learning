@@ -4,7 +4,8 @@ Delve into the captivating realm of deep learning in this lab, where fundamental
 Write a Python program to plot the following functions:
 
 1.  y = ax + b 
-2.  y = a sin x + b 
-3.  y = ae^x + b 
+2.  y = ax^2 + bx + c
+3.  y = a sin x + b 
+4.  y = ae^x + b 
 
 ## Assignment-2
